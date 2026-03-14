@@ -59,4 +59,8 @@ The portfolio includes a contact section powered by EmailJS, allowing visitors t
 
 ---
 
+Live: https://portfolio-kappa-eosin-86.vercel.app/
+
+---
+
 Built with ❤️ by Shresth.
